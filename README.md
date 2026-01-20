@@ -13,7 +13,7 @@ Access records, view marks, and communicate effortlessly.
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/yogndrr/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/akash-sk-in">LinkedIn</a>
 </p>
 
 
